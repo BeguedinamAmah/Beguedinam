@@ -16,7 +16,7 @@
 <p align="center">
   Sou <strong>Beguedinam Amah</strong> e <strong>estou me aperfeiçoando em Programação</strong>.<br />
 <strong>Tenho um grande sonho</strong> de me tornar <strong>desenvolvedor Front End,</strong>
-e poder <strong>construir um futuro</strong>para mim <strong>e minha familia.</strong>.
+e poder <strong>construir um futuro</strong> para mim <strong> e minha familia.</strong>.
 </p>
 
 <br>
